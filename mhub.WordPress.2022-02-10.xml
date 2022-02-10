@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9" created="2022-02-03 12:10" -->
+	<!-- generator="WordPress/5.9" created="2022-02-10 05:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>mhub*</title>
 	<link>https://carlo-de-grandi-giacomo.students-laplateforme.io</link>
 	<description>eureka lab</description>
-	<pubDate>Thu, 03 Feb 2022 12:10:12 +0000</pubDate>
+	<pubDate>Thu, 10 Feb 2022 05:56:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://carlo-de-grandi-giacomo.students-laplateforme.io</wp:base_site_url>
@@ -261,7 +261,7 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[variable]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
+			<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[footer]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-2]]></wp:term_slug><wp:term_name><![CDATA[Footer 2]]></wp:term_name>
 </wp:term>
@@ -304,6 +304,83 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=46</link>
+		<pubDate>Sat, 17 Jul 2021 14:05:25 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:16:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-17 14:05:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[46]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-07-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-07-25]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-08-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[pexels-karolina-grabowska-4397817]]></title>
 		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=130</link>
 		<pubDate>Sun, 18 Jul 2021 19:31:36 +0000</pubDate>
@@ -338,128 +415,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[113]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Shipping]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=160</link>
-		<pubDate>Wed, 21 Jul 2021 08:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=160</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>160</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-21 08:47:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-21 08:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shipping]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[160]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Terms]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=161</link>
-		<pubDate>Wed, 21 Jul 2021 08:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=161</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-21 08:47:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-21 08:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[terms]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[161]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -1002,6 +957,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Capacitor-1835729_640]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=494</link>
+		<pubDate>Wed, 09 Feb 2022 18:53:56 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/02/Capacitor-1835729_640.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>494</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-09 19:53:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-09 18:53:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-09 19:53:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-09 18:53:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[capacitor-1835729_640]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>490</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/02/Capacitor-1835729_640.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/02/Capacitor-1835729_640.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:425;s:4:"file";s:33:"2022/02/Capacitor-1835729_640.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:10:"botiga-big";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-575x382.jpg";s:5:"width";i:575;s:6:"height";i:382;s:9:"mime-type";s:10:"image/jpeg";}s:13:"botiga-medium";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:33:"Capacitor-1835729_640-420x279.jpg";s:5:"width";i:420;s:6:"height";i:279;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-420x279.jpg";s:5:"width";i:420;s:6:"height";i:279;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:33:"Capacitor-1835729_640-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Page]]></title>
 		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=2</link>
 		<pubDate>Tue, 10 May 2016 03:48:21 +0000</pubDate>
@@ -1176,107 +1164,6 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[My account]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=30</link>
-		<pubDate>Sat, 17 Jul 2021 09:42:26 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-17 09:42:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-17 09:42:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-17 09:42:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-17 09:42:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=46</link>
-		<pubDate>Sat, 17 Jul 2021 14:05:25 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-17 17:07:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-17 14:05:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-17 17:07:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-17 14:05:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[46]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-07-17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-07-25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=47</link>
 		<pubDate>Sat, 17 Jul 2021 14:05:25 +0000</pubDate>
@@ -1286,10 +1173,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-17 17:07:05]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:16:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-07-17 14:05:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-17 17:07:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-17 14:05:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[47]]></wp:post_name>
@@ -1348,6 +1235,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1359,10 +1250,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2022-01-31 13:54:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:20:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-07-17 14:50:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 13:54:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 13:54:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[78]]></wp:post_name>
@@ -1372,7 +1263,7 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -1417,6 +1308,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-01-31]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1428,10 +1323,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>79</wp:post_id>
-		<wp:post_date><![CDATA[2022-01-31 13:54:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:20:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-07-17 14:50:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 13:54:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 13:54:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[79]]></wp:post_name>
@@ -1441,7 +1336,7 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -1486,136 +1381,139 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-01-31]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[What does upcycling clothes mean?]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=112</link>
-		<pubDate>Sun, 18 Jul 2021 18:58:45 +0000</pubDate>
+		<title><![CDATA[Shipping]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=160</link>
+		<pubDate>Wed, 21 Jul 2021 08:47:03 +0000</pubDate>
 		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=112</guid>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=160</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Upcycling clothes is to take old, worn out or damaged clothing and transform it into something new.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Clothing that doesn’t fit any longer, is torn, stained or otherwise damaged, can be refashioned into a new product.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Also referred to as repurposed clothing, reused clothing and recycled clothing, upcycled clothing is becoming increasingly popular in today’s fashion industry</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":438,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/scisors1.jpeg" alt="" class="wp-image-438"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="the-difference-between-upcycling-and-recycling">The difference between upcycling and recycling</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The World Wildlife Fund estimates that it takes&nbsp;<a rel="noreferrer noopener" href="https://www.worldwildlife.org/stories/the-impact-of-a-cotton-t-shirt" target="_blank">20,000 litres of freshwater</a>&nbsp;to make one kilogram of cotton; enough for a pair of jeans and a t-shirt! And with farming accounting for 70% of all freshwater use, we can expect to see dramatic changes to the industry in the next 10-20 years.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It should be noted that upcycling is different from recycling.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Upcycling is reusing the same fabric and turning it into something else.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Recycling entails breaking down materials before they are reconstituted into something else. This is usually done in two ways; mechanically and chemically.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Mechanical recycling is when a fabric, such as cotton or wool, is shredded. Then the resulting fibre is woven into a new fabric.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Chemical recycling is when a fabric is treated with a chemical and then dissolved. The resulting fibre can then be mixed with other fibres to make a new fabric.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Recycling uses a lot of resources and – in the case of chemical recycling – utilizes harmful substances to create something new.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Upcycling isn’t as damaging to the environment and uses no other natural resources.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Just to confuse things, there is also&nbsp;<em>downcycling</em>&nbsp;which is to take old clothes and, instead of making them into something better, turn them into rags for cleaning</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The industry is basically a conveyer belt that takes enormous amounts of resources and creates clothes which are only worn for a fleeting time before being dumped in landfills.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-18 18:58:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-18 18:58:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 08:29:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 08:29:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec]]></wp:post_name>
+		<wp:post_id>160</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:20:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shipping]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[160]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[109]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[452]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-07-21]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Terms]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=161</link>
+		<pubDate>Wed, 21 Jul 2021 08:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=161</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:20:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[terms]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[161]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-07-21]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1628,10 +1526,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>162</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-21 08:47:03]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:20:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-21 08:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-21 08:47:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[policy]]></wp:post_name>
@@ -1678,133 +1576,9 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Us]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=257</link>
-		<pubDate>Thu, 22 Jul 2021 18:22:25 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?page_id=257</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:spacer {"height":20} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:gutenberg-wpgmza/block /-->
-
-<!-- wp:spacer {"height":30} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"level":3} -->
-<h3 id="leave-us-a-message">Leave Us a Message</h3>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:wpforms/form-selector {"formId":"388"} /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"5%"} -->
-<div class="wp-block-column" style="flex-basis:5%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"35%"} -->
-<div class="wp-block-column" style="flex-basis:35%"><!-- wp:heading {"level":3} -->
-<h3 id="our-store">Our Store</h3>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>8 rue d'Hozier 13002</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Marseille, France</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"smallmargin","fontSize":"small"} -->
-<p class="smallmargin has-small-font-size">PHONE:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>+33 640654566</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"smallmargin","fontSize":"small"} -->
-<p class="smallmargin has-small-font-size">E-MAIL:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>mhub@mhub.com</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":1} -->
-<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="store-hours">Store Hours</h3>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>Sun: Closed</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Mon to Sat: 10 AM - 5:30 PM</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>257</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-22 18:22:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-22 18:22:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 12:32:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 12:32:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-07-21]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1817,10 +1591,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>320</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-17 17:07:05]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:16:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-07-25 09:15:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-17 17:07:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-25 09:15:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[320]]></wp:post_name>
@@ -1875,175 +1649,9 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[mhub*]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/</link>
-		<pubDate>Tue, 17 Aug 2021 17:03:43 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?page_id=362</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:athemes/athemes-blocks-block-container {"block_id":"113746d4","wrapperPaddingToggle":false,"wrapperPadding":0,"wrapperPaddingTop":200,"wrapperPaddingBottom":240,"wrapperBackgroundType":"image","wrapperBackgroundImage":{"uploading":false,"date":1643297813000,"filename":"shirt1.png","menuOrder":0,"uploadedTo":362,"type":"image","subtype":"png","id":396,"title":"shirt1","url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png","link":"https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=396","alt":"","author":"1","description":"","caption":"","name":"shirt1","status":"inherit","modified":1643297813000,"mime":"image/png","icon":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-includes/images/media/default.png","dateFormatted":"January 27, 2022","nonces":{"update":"f9f17e6890","delete":"d85b48a41f","edit":"cf1accb32b"},"editLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=396\u0026action=edit","meta":false,"authorName":"carlode-grandi-giacomo_zc5t56l6","authorLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=362\u0026action=edit","filesizeInBytes":21180,"filesizeHumanReadable":"21 KB","context":"","height":1080,"width":764,"orientation":"portrait","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":212,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-212x300.png","orientation":"portrait"},"large":{"height":1024,"width":724,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-724x1024.png","orientation":"portrait"},"full":{"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png","height":1080,"width":764,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"wrapperBackgroundPosition":"center center"} -->
-<div id="athemes-blocks-block-113746d4" class="wp-block-athemes-athemes-blocks-block-container athemes-blocks-block athemes-blocks-block-113746d4 athemes-blocks-block-container alignfull"><div class="athemes-blocks-block-container-wrapper athemes-blocks-block-container-bg-cover athemes-blocks-block-container-bg-effect-scroll"><img class="athemes-blocks-background-image" width="764" height="1080" loading="lazy" srcset="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-150x150.png 150w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-212x300.png 212w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-724x1024.png 724w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png 764w, " sizes="(max-width: 764px) 100vw, 764px" alt=""/><div class="athemes-blocks-block-container-wrapper-content"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"fontSize":"gigantic"} -->
-<h2 class="has-gigantic-font-size" id="touch-the-matter">_touch the matter</h2>
-<!-- /wp:heading -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=27">SHOP NOW</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.33%"} -->
-<div class="wp-block-column" style="flex-basis:33.33%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div></div></div>
-<!-- /wp:athemes/athemes-blocks-block-container -->
-
-<!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="has-text-align-center" id="browse-the-imagination">_browse the imagination</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Create amazing projects and share them with other users</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:woocommerce/product-new {"rows":1,"contentVisibility":{"title":true,"price":true,"rating":false,"button":true}} /-->
-
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:athemes/athemes-blocks-block-container {"block_id":"9598526d","wrapperPaddingToggle":false,"wrapperPaddingTop":150,"wrapperPaddingBottom":150,"wrapperBackgroundType":"image","wrapperBackgroundImage":{"uploading":false,"date":1643302992000,"filename":"moai.jpg","menuOrder":0,"uploadedTo":362,"type":"image","subtype":"jpeg","id":399,"title":"moai","url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg","link":"https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=399","alt":"","author":"1","description":"","caption":"","name":"moai","status":"inherit","modified":1643302992000,"mime":"image/jpeg","icon":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-includes/images/media/default.png","dateFormatted":"January 27, 2022","nonces":{"update":"70a37c2ae3","delete":"ed4d12e347","edit":"9e6106f00c"},"editLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=399\u0026action=edit","meta":false,"authorName":"carlode-grandi-giacomo_zc5t56l6","authorLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=362\u0026action=edit","filesizeInBytes":202573,"filesizeHumanReadable":"198 KB","context":"","height":2000,"width":1333,"orientation":"portrait","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":682,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-682x1024.jpg","orientation":"portrait"},"full":{"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg","height":2000,"width":1333,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"wrapperBackgroundPosition":"center center"} -->
-<div id="athemes-blocks-block-9598526d" class="wp-block-athemes-athemes-blocks-block-container athemes-blocks-block athemes-blocks-block-9598526d athemes-blocks-block-container alignfull"><div class="athemes-blocks-block-container-wrapper athemes-blocks-block-container-bg-cover athemes-blocks-block-container-bg-effect-scroll"><img class="athemes-blocks-background-image" width="1333" height="2000" loading="lazy" srcset="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-150x150.jpg 150w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-200x300.jpg 200w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-682x1024.jpg 682w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg 1333w, " sizes="(max-width: 1333px) 100vw, 1333px" alt=""/><div class="athemes-blocks-block-container-wrapper-content"><!-- wp:heading {"textAlign":"center","level":3,"textColor":"palette1-color-6"} -->
-<h3 class="has-text-align-center has-palette-1-color-6-color has-text-color" id="create"><strong>crea</strong>te</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"palette1-color-6"} -->
-<p class="has-text-align-center has-palette-1-color-6-color has-text-color"><strong>chose your kit and start to make</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=27">SHOP NOW</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div></div></div>
-<!-- /wp:athemes/athemes-blocks-block-container -->
-
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="has-text-align-center" id="posts">_posts**</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">_posts** is curated by our team and partners</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
-<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
-<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":414,"width":163,"height":180,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/ruler1.jpg" alt="" class="wp-image-414" width="163" height="180"/></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_clothes</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":410,"width":166,"height":178,"sizeSlug":"full","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/raspy1-1.jpg" alt="" class="wp-image-410" width="166" height="178"/></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_tech</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"align":"center","id":406,"width":168,"height":179,"sizeSlug":"large","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/filter1-6-960x1024.jpg" alt="" class="wp-image-406" width="168" height="179"/></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_music</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Where is your imagination bringing you today?</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:spacer {"height":26} -->
-<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>362</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-17 17:03:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-17 17:03:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 14:03:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 14:03:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpassetcleanup_no_load]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"styles":["contact-form-7","elementor-common","elementor-icons"],"scripts":["contact-form-7","wpcf7-recaptcha","backbone-marionette","backbone-radio","elementor-app-loader","elementor-common","elementor-common-modules","elementor-dialog","st-carousel","jquery-blockui","google-recaptcha","jquery-ui-position"]}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2056,10 +1664,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>364</wp:post_id>
-		<wp:post_date><![CDATA[2022-01-31 13:54:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:20:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-17 17:06:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 13:54:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 13:54:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[364]]></wp:post_name>
@@ -2069,7 +1677,7 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2110,6 +1718,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-01-31]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2121,10 +1733,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>365</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-17 17:07:05]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:16:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-17 17:07:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-17 17:07:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-17 17:07:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[365]]></wp:post_name>
@@ -2170,6 +1782,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-08-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2240,10 +1856,10 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>466</wp:post_id>
-		<wp:post_date><![CDATA[2022-01-31 13:54:55]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-10 06:20:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-01-31 09:47:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 13:54:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 13:54:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[466]]></wp:post_name>
@@ -2253,7 +1869,7 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+										<category domain="nav_menu" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2286,45 +1902,237 @@ As a new WordPress user, you should go to <a href="https://carlo-de-grandi-giaco
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-01-31]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Subcribe]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=468</link>
-		<pubDate>Mon, 31 Jan 2022 09:55:56 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=503</link>
+		<pubDate>Thu, 10 Feb 2022 05:16:29 +0000</pubDate>
 		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=468</guid>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=503</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:wpforms/form-selector {"formId":"463"} /-->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>468</wp:post_id>
-		<wp:post_date><![CDATA[2022-01-31 09:55:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-01-31 09:55:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 09:55:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 09:55:56]]></wp:post_modified_gmt>
+		<wp:post_id>503</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:16:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:16:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[subcribe]]></wp:post_name>
+		<wp:post_name><![CDATA[503]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[490]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=504</link>
+		<pubDate>Thu, 10 Feb 2022 05:20:19 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=504</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>504</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:20:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[504]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[490]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=505</link>
+		<pubDate>Thu, 10 Feb 2022 05:20:46 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=505</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>505</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:20:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[505]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[490]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=506</link>
+		<pubDate>Thu, 10 Feb 2022 05:20:46 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=506</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>506</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 06:20:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:20:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:20:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[506]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-2"><![CDATA[Footer 2]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2384,437 +2192,31 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Rare Earth Deep Pore Minimizing Cleansing]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=31</link>
-		<pubDate>Sat, 17 Jul 2021 09:49:14 +0000</pubDate>
+		<title><![CDATA[My account]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=30</link>
+		<pubDate>Sat, 17 Jul 2021 09:42:26 +0000</pubDate>
 		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=31</guid>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/my-account/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
-
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-17 09:49:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-17 09:49:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-17 09:42:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-17 09:42:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-07-17 09:42:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-07-17 09:42:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rare-earth-deep-pore-minimizing-cleansing-clay-mask__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[my-account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rare-earth-deep-pore-minimizing-cleansing-clay-mask]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:2;s:1:"0";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[Black Fox]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[astrophotolover@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[91.225.166.95]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-12-20 16:32:27]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-12-20 16:32:27]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Facial Treatment Essence (Pitera Essence)]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=40</link>
-		<pubDate>Sat, 17 Jul 2021 10:39:31 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
-
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-17 10:39:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-17 10:39:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[facial-treatment-essence-pitera-essence__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[facial-treatment-essence-pitera-essence]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{i:3;s:1:"0";i:4;s:1:"0";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[Arif]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[shehzadarif31@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[175.107.213.97]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-12-20 21:33:37]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-12-20 21:33:37]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Very awesome]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[test]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[supriya_khopade@rediffmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[2405:201:21:30b9:fd20:a8e9:d4bc:f978]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2022-01-13 06:01:31]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2022-01-13 06:01:31]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[test]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Mini Radiant Creamy Concealer and Blush]]></title>
-		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=42</link>
-		<pubDate>Sat, 17 Jul 2021 10:42:05 +0000</pubDate>
-		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
-		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=42</guid>
-		<description></description>
-		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
-
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-17 10:42:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-07-17 10:42:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mini-radiant-creamy-concealer-and-blush-customizable-set__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[mini-radiant-creamy-concealer-and-blush-customizable-set]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3585,6 +2987,137 @@ ur adipiscing elit.]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[What does upcycling clothes mean?]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=112</link>
+		<pubDate>Sun, 18 Jul 2021 18:58:45 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?p=112</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Upcycling clothes is to take old, worn out or damaged clothing and transform it into something new.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Clothing that doesn’t fit any longer, is torn, stained or otherwise damaged, can be refashioned into a new product.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also referred to as repurposed clothing, reused clothing and recycled clothing, upcycled clothing is becoming increasingly popular in today’s fashion industry</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":438,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/scisors1.jpeg" alt="" class="wp-image-438"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="the-difference-between-upcycling-and-recycling">The difference between upcycling and recycling</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The World Wildlife Fund estimates that it takes&nbsp;<a rel="noreferrer noopener" href="https://www.worldwildlife.org/stories/the-impact-of-a-cotton-t-shirt" target="_blank">20,000 litres of freshwater</a>&nbsp;to make one kilogram of cotton; enough for a pair of jeans and a t-shirt! And with farming accounting for 70% of all freshwater use, we can expect to see dramatic changes to the industry in the next 10-20 years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It should be noted that upcycling is different from recycling.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Upcycling is reusing the same fabric and turning it into something else.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recycling entails breaking down materials before they are reconstituted into something else. This is usually done in two ways; mechanically and chemically.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mechanical recycling is when a fabric, such as cotton or wool, is shredded. Then the resulting fibre is woven into a new fabric.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chemical recycling is when a fabric is treated with a chemical and then dissolved. The resulting fibre can then be mixed with other fibres to make a new fabric.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recycling uses a lot of resources and – in the case of chemical recycling – utilizes harmful substances to create something new.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Upcycling isn’t as damaging to the environment and uses no other natural resources.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just to confuse things, there is also&nbsp;<em>downcycling</em>&nbsp;which is to take old clothes and, instead of making them into something better, turn them into rags for cleaning</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The industry is basically a conveyer belt that takes enormous amounts of resources and creates clothes which are only worn for a fleeting time before being dumped in landfills.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-18 18:58:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-18 18:58:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 08:29:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 08:29:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
+		<wp:meta_value><![CDATA[109]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[452]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[A post from SparkFun Engineer Chris Taylor on "Self Taught Electronics."]]></title>
 		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?p=113</link>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -3701,7 +3234,7 @@ ur adipiscing elit.]]></content:encoded>
 			<wp:comment_date><![CDATA[2022-01-31 08:22:47]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2022-01-31 08:22:47]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[test comment 1]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>1</wp:comment_user_id>
@@ -4335,6 +3868,824 @@ ur adipiscing elit.]]></content:encoded>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=257</link>
+		<pubDate>Thu, 22 Jul 2021 18:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?page_id=257</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer {"height":20} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:gutenberg-wpgmza/block /-->
+
+<!-- wp:spacer {"height":30} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"level":3} -->
+<h3 id="leave-us-a-message">Leave Us a Message</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:wpforms/form-selector {"formId":"388"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"35%"} -->
+<div class="wp-block-column" style="flex-basis:35%"><!-- wp:heading {"level":3} -->
+<h3 id="our-store">Our Store</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>8 rue d'Hozier 13002</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Marseille, France</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"smallmargin","fontSize":"small"} -->
+<p class="smallmargin has-small-font-size">PHONE:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>+33 640654566</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"smallmargin","fontSize":"small"} -->
+<p class="smallmargin has-small-font-size">E-MAIL:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>mhub@mhub.com</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":1} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="store-hours">Store Hours</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Sun: Closed</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mon to Sat: 10 AM - 5:30 PM</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>257</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-22 18:22:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-22 18:22:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 12:32:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 12:32:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[mhub*]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/</link>
+		<pubDate>Tue, 17 Aug 2021 17:03:43 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?page_id=362</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:athemes/athemes-blocks-block-container {"block_id":"113746d4","wrapperPaddingToggle":false,"wrapperPadding":0,"wrapperPaddingTop":200,"wrapperPaddingBottom":240,"wrapperBackgroundType":"image","wrapperBackgroundImage":{"uploading":false,"date":1643297813000,"filename":"shirt1.png","menuOrder":0,"uploadedTo":362,"type":"image","subtype":"png","id":396,"title":"shirt1","url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png","link":"https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=396","alt":"","author":"1","description":"","caption":"","name":"shirt1","status":"inherit","modified":1643297813000,"mime":"image/png","icon":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-includes/images/media/default.png","dateFormatted":"January 27, 2022","nonces":{"update":"f9f17e6890","delete":"d85b48a41f","edit":"cf1accb32b"},"editLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=396\u0026action=edit","meta":false,"authorName":"carlode-grandi-giacomo_zc5t56l6","authorLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=362\u0026action=edit","filesizeInBytes":21180,"filesizeHumanReadable":"21 KB","context":"","height":1080,"width":764,"orientation":"portrait","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":212,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-212x300.png","orientation":"portrait"},"large":{"height":1024,"width":724,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-724x1024.png","orientation":"portrait"},"full":{"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png","height":1080,"width":764,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"wrapperBackgroundPosition":"center center"} -->
+<div id="athemes-blocks-block-113746d4" class="wp-block-athemes-athemes-blocks-block-container athemes-blocks-block athemes-blocks-block-113746d4 athemes-blocks-block-container alignfull"><div class="athemes-blocks-block-container-wrapper athemes-blocks-block-container-bg-cover athemes-blocks-block-container-bg-effect-scroll"><img class="athemes-blocks-background-image" width="764" height="1080" loading="lazy" srcset="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-150x150.png 150w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-212x300.png 212w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1-724x1024.png 724w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/shirt1.png 764w, " sizes="(max-width: 764px) 100vw, 764px" alt=""/><div class="athemes-blocks-block-container-wrapper-content"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"fontSize":"gigantic"} -->
+<h2 class="has-gigantic-font-size" id="touch-the-matter">_touch the matter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=27">SHOP NOW</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div></div>
+<!-- /wp:athemes/athemes-blocks-block-container -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="browse-the-imagination">_browse the imagination</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Create amazing projects and share them with other users</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:woocommerce/product-new {"rows":1,"contentVisibility":{"title":true,"price":true,"rating":false,"button":true}} /-->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:athemes/athemes-blocks-block-container {"block_id":"9598526d","wrapperPaddingToggle":false,"wrapperPaddingTop":150,"wrapperPaddingBottom":150,"wrapperBackgroundType":"image","wrapperBackgroundImage":{"uploading":false,"date":1643302992000,"filename":"moai.jpg","menuOrder":0,"uploadedTo":362,"type":"image","subtype":"jpeg","id":399,"title":"moai","url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg","link":"https://carlo-de-grandi-giacomo.students-laplateforme.io/?attachment_id=399","alt":"","author":"1","description":"","caption":"","name":"moai","status":"inherit","modified":1643302992000,"mime":"image/jpeg","icon":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-includes/images/media/default.png","dateFormatted":"January 27, 2022","nonces":{"update":"70a37c2ae3","delete":"ed4d12e347","edit":"9e6106f00c"},"editLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=399\u0026action=edit","meta":false,"authorName":"carlode-grandi-giacomo_zc5t56l6","authorLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-admin/post.php?post=362\u0026action=edit","filesizeInBytes":202573,"filesizeHumanReadable":"198 KB","context":"","height":2000,"width":1333,"orientation":"portrait","sizes":{"thumbnail":{"height":150,"width":150,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-150x150.jpg","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-200x300.jpg","orientation":"portrait"},"large":{"height":1024,"width":682,"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-682x1024.jpg","orientation":"portrait"},"full":{"url":"https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg","height":2000,"width":1333,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"wrapperBackgroundPosition":"center center"} -->
+<div id="athemes-blocks-block-9598526d" class="wp-block-athemes-athemes-blocks-block-container athemes-blocks-block athemes-blocks-block-9598526d athemes-blocks-block-container alignfull"><div class="athemes-blocks-block-container-wrapper athemes-blocks-block-container-bg-cover athemes-blocks-block-container-bg-effect-scroll"><img class="athemes-blocks-background-image" width="1333" height="2000" loading="lazy" srcset="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-150x150.jpg 150w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-200x300.jpg 200w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai-682x1024.jpg 682w, https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/moai.jpg 1333w, " sizes="(max-width: 1333px) 100vw, 1333px" alt=""/><div class="athemes-blocks-block-container-wrapper-content"><!-- wp:heading {"textAlign":"center","level":3,"textColor":"palette1-color-6"} -->
+<h3 class="has-text-align-center has-palette-1-color-6-color has-text-color" id="create"><strong>crea</strong>te</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"palette1-color-6"} -->
+<p class="has-text-align-center has-palette-1-color-6-color has-text-color"><strong>chose your kit and start to make</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=27">SHOP NOW</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div></div>
+<!-- /wp:athemes/athemes-blocks-block-container -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="posts">_posts**</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">_posts** is curated by our team and partners</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":414,"width":163,"height":180,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/ruler1.jpg" alt="" class="wp-image-414" width="163" height="180"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_clothes</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":410,"width":166,"height":178,"sizeSlug":"full","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/raspy1-1.jpg" alt="" class="wp-image-410" width="166" height="178"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_tech</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":406,"width":168,"height":179,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/01/filter1-6-960x1024.jpg" alt="" class="wp-image-406" width="168" height="179"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=7" data-type="page" data-id="7">_music</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Where is your imagination bringing you today?</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:spacer {"height":26} -->
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>362</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-17 17:03:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-17 17:03:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 14:03:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 14:03:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpassetcleanup_no_load]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"styles":["contact-form-7","elementor-common","elementor-icons"],"scripts":["contact-form-7","wpcf7-recaptcha","backbone-marionette","backbone-radio","elementor-app-loader","elementor-common","elementor-common-modules","elementor-dialog","st-carousel","jquery-blockui","google-recaptcha","jquery-ui-position"]}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Subcribe]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=468</link>
+		<pubDate>Mon, 31 Jan 2022 09:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=468</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:wpforms/form-selector {"formId":"463"} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>468</wp:post_id>
+		<wp:post_date><![CDATA[2022-01-31 09:55:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-01-31 09:55:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 09:55:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 09:55:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[subcribe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=490</link>
+		<pubDate>Wed, 09 Feb 2022 18:50:56 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://carlo-de-grandi-giacomo.students-laplateforme.io/?page_id=490</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:image {"id":494,"width":994,"height":661,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="https://carlo-de-grandi-giacomo.students-laplateforme.io/wp-content/uploads/2022/02/Capacitor-1835729_640.jpg" alt="" class="wp-image-494" width="994" height="661"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>En 2016, alors que les tutoriels DIY deviennent extrêmement tendance, peu de créateurs de la communauté vendent des outils pratique à tous, afin de faciliter la production de ces projets. C’est alors que nous, deux créateurs DYI, décidons de réunir dans un site web une boutique, destiné à vendre des outils facilitant le travail des membres de la communauté du DYI, et aussi d’y intégrer un blog afin que chaque utilisateur puisse poser des questions et interagir avec d’autres membres. Depuis 2017, le site est en explosion constante, avec près de 6000 utilisateurs DYI quotidien visitant le site, et près de 25000 comptes enregistrés, tous réunis par une passion commune.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://github.com/pierre-ninfei" data-type="URL" data-id="https://github.com/pierre-ninfei">P. Ninfei</a>   <a rel="noreferrer noopener" href="https://github.com/Giacomo-DeGrandi" data-type="URL" data-id="https://github.com/Giacomo-DeGrandi" target="_blank">G.De Grandi</a></strong></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>490</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-09 19:50:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-09 18:50:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 06:15:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-10 05:15:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Rare Earth Deep Pore Minimizing Cleansing]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=31</link>
+		<pubDate>Sat, 17 Jul 2021 09:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=31</guid>
+		<description></description>
+		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-17 09:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-17 09:49:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rare-earth-deep-pore-minimizing-cleansing-clay-mask__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[rare-earth-deep-pore-minimizing-cleansing-clay-mask]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:2;s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Black Fox]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[astrophotolover@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.225.166.95]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-20 16:32:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-20 16:32:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Facial Treatment Essence (Pitera Essence)]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=40</link>
+		<pubDate>Sat, 17 Jul 2021 10:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-17 10:39:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-17 10:39:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facial-treatment-essence-pitera-essence__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[facial-treatment-essence-pitera-essence]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{i:3;s:1:"0";i:4;s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[Arif]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[shehzadarif31@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[175.107.213.97]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-20 21:33:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-20 21:33:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Very awesome]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_author><![CDATA[test]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[supriya_khopade@rediffmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[2405:201:21:30b9:fd20:a8e9:d4bc:f978]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-13 06:01:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-13 06:01:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[test]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Mini Radiant Creamy Concealer and Blush]]></title>
+		<link>https://carlo-de-grandi-giacomo.students-laplateforme.io/?post_type=product&#038;p=42</link>
+		<pubDate>Sat, 17 Jul 2021 10:42:05 +0000</pubDate>
+		<dc:creator><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></dc:creator>
+		<guid isPermaLink="false">https://demo.athemes.com/botiga/?post_type=product&#038;p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum.
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus congue nisi.]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2021-07-17 10:42:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-07-17 10:42:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-31 08:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-31 08:40:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mini-radiant-creamy-concealer-and-blush-customizable-set__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="cosmetics"><![CDATA[Cosmetics]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.5.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_page_builder_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_botiga_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[carlode-grandi-giacomo_zc5t56l6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1643618438]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mini-radiant-creamy-concealer-and-blush-customizable-set]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
